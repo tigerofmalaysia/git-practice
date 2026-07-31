@@ -1,8 +1,0 @@
-total 23
-drwx------.  3 u0_a304 u0_a304 3452 Jul 27 15:20 .
-drwx------. 18 u0_a304 u0_a304 3452 Jul 27 15:19 ..
-drwx------.  7 u0_a304 u0_a304 3452 Jul 27 15:19 .git
--rw-------.  1 u0_a304 u0_a304 1072 Jul 27 13:33 LICENSE
--rw-------.  1 u0_a304 u0_a304  123 Jul 27 14:31 README.md
--rw-------.  1 u0_a304 u0_a304    0 Jul 27 15:20 details.txt
--rw-------.  1 u0_a304 u0_a304  168 Jul 27 14:31 july.txt
